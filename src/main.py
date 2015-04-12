@@ -7,4 +7,6 @@ this file and I'll send you $5.
 If you're too lazy to collect such little money, then just
 open an issue and you can have bragging rights of finding
 it before other people did.
+
+Edit: PR #1 claimed this, but I kinda wanna keep it for funsies.
 """
